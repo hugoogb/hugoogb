@@ -2,7 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/hugoo_gb?color=%231DA1F2&label=Follow%20Me&logo=Twitter&style=for-the-badge)
 
-## Software Engineer student 📚💻 || programmer in progress 👨🏼‍💻
+## Software Engineering student 📚💻 || programmer in progress 👨🏼‍💻
 
 - 🔭 I’m currently working on **college 😁**
 
@@ -10,7 +10,7 @@
 
 - 💰 I'm investing in **cryptocurrency**
 
-- ⚡ Fun fact **I love playing games like Valorant 🔫 or Rocket League 🚗⚽**
+- ⚡ Fun fact **I love playing games like Valorant 🔫** or **Rocket League 🚗⚽**
 
 ### Connect with me:
 
