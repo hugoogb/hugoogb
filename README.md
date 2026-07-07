@@ -85,9 +85,9 @@ Right now I'm open to **remote roles** and **freelance work** across EU and US t
 
 | Project | What it is | |
 | :--- | :--- | :--- |
-| **[F1 Tracker](https://f1-tracker-web.vercel.app)** | The complete history of Formula 1 as an interactive analytics dashboard — Next.js + Tailwind on a FastAPI/PostgreSQL backend, fed by a Python data pipeline. | [Live ↗](https://f1-tracker-web.vercel.app) · [Code](https://github.com/hugoogb/f1-tracker) |
+| **[F1 Tracker](https://f1-tracker-web.vercel.app)** | The complete history of Formula 1 as an interactive analytics dashboard — Next.js + Tailwind on a FastAPI/PostgreSQL backend, fed by a Python data pipeline. | [![CI](https://github.com/hugoogb/f1-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/hugoogb/f1-tracker/actions/workflows/ci.yml)<br>[Live ↗](https://f1-tracker-web.vercel.app) · [Code](https://github.com/hugoogb/f1-tracker) |
 | **[ReadLedger](https://readledger.app)** | A manga collection tracker with reading, spending and second-hand savings analytics — Next.js, Supabase, Prisma. | [Live ↗](https://readledger.app) · [Code](https://github.com/hugoogb/readledger) |
-| **[@avatar-generator](https://github.com/hugoogb/avatar-generator)** | A framework-agnostic avatar-generation library, published to npm. | [Code](https://github.com/hugoogb/avatar-generator) |
+| **[@avatar-generator](https://github.com/hugoogb/avatar-generator)** | A framework-agnostic avatar-generation library, published to npm. | [![npm](https://img.shields.io/npm/v/@avatar-generator/core?style=flat-square&logo=npm&color=CB3837)](https://www.npmjs.com/package/@avatar-generator/core) [![downloads](https://img.shields.io/npm/dm/@avatar-generator/core?style=flat-square)](https://www.npmjs.com/package/@avatar-generator/core)<br>[Code](https://github.com/hugoogb/avatar-generator) |
 | **3D PV Designer** _(Wattwin)_ | Degree project: a 3D photovoltaic designer with a ray-tracing shadow engine that recalculates in real time over WebSockets. | [Case study ↗](https://hugoogb.dev) |
 
 More on **[hugoogb.dev](https://hugoogb.dev) →**
